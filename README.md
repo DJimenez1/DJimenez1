@@ -1,8 +1,8 @@
 # Hello world, it's David 👋  
 
-**Full-Stack Developer | Computer Engineering Graduate | Creator of [Function](https://david-jimenez-portfolio.vercel.app/)**  
+**Full-Stack Developer | Computer Engineering Graduate | Creator of [Function](https://functionapp.dev)**  
 
-I’m passionate about building scalable, interactive applications and leveraging technology to connect people.  
+I’m passionate about building scalable, secure applications and AI-powered tools that channel my interests into meaningful, practical solutions.
 My latest project is **Function**, a hobby-based social matchmaking platform with real-time text and voice chat, built using **React, Express, and MongoDB**.  
 
 ---
