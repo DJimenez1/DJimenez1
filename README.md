@@ -18,14 +18,15 @@ Social matchmaking platform connecting users with shared interests, featuring qu
 
 ### [GradSchoolZero](https://github.com/CityDevsCCNY/GradSchoolZero)
 Academic administration platform built as part of a graduate-level course, with role-based permissions for students, faculty, and administrators.  
-**Tech stack:** Java, Spring Boot, MySQL, React  
+**Tech stack:** React, Express, Bootstrap, MongoDB  
 - Designed ER diagrams and implemented relational data models.  
 - Built secure authentication and multi-role access controls.  
 
 ---
 
 ### [NLP Chatbot](https://github.com/cindyweng18/ccnychatbot)
-AI-powered chatbot for university FAQs using DistilBERT, deployed with AWS EC2 & S3, Django backend, and React frontend.  
+AI-powered virtual assistant "Janus" for university FAQs and navigation using NLP machine learning with DistilBERT. 
+**Tech stack:** React, Python, Django, Jupyter, AWS EC2 & S3  
 
 ---
 
