@@ -32,10 +32,12 @@ AI-powered chatbot for university FAQs using DistilBERT, deployed with AWS EC2 &
 
 ---
 
-## GitHub Stats  
+## Highlights  
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJimenez1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJimenez1&layout=compact&theme=radical)
+- 💻 Built **Function**, a real-time matchmaking and communication platform from scratch — frontend, backend, and deployment.  
+- 🚀 Deployed multiple full-stack projects on **Vercel** and **Railway** with CI/CD pipelines.  
+- 🤖 Developed and deployed **NLP chatbot** using DistilBERT, integrated with AWS cloud services.  
+- 🎨 Strong focus on **UI/UX**, accessibility, and responsive design using TailwindCSS and modern component libraries.  
 
 ---
 
@@ -44,5 +46,3 @@ AI-powered chatbot for university FAQs using DistilBERT, deployed with AWS EC2 &
 - Portfolio: [david-jimenez-portfolio.vercel.app](https://david-jimenez-portfolio.vercel.app/)  
 - LinkedIn: [linkedin.com/in/david-jimenez-b863a7228](https://www.linkedin.com/in/david-jimenez-b863a7228/)  
 - Email: **djimenezahhs@gmail.com**
-
----
