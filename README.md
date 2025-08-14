@@ -37,7 +37,7 @@ Personal portfolio built with React, TailwindCSS, and Framer Motion, showcasing 
 ## Tech Stack
 
 **Languages:** JavaScript, Python, Java, C++, SQL  
-**Frameworks & Libraries:** React, Express, Django, Node.js, TailwindCSS, WebSockets, Spring Boot  
+**Frameworks & Libraries:** React, Express, Django, Node.js, TailwindCSS, WebSockets
 **Databases:** MongoDB, MySQL, SQLite  
 **Tools & Platforms:** Git, GitHub, Railway, Vercel, AWS, Google Cloud
 
