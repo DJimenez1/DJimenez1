@@ -19,8 +19,6 @@ Social matchmaking platform connecting users with shared interests, featuring qu
 ### [GradSchoolZero](https://github.com/CityDevsCCNY/GradSchoolZero)
 Academic administration platform built as part of a graduate-level course, with role-based permissions for students, faculty, and administrators.  
 **Tech stack:** React, Express, Bootstrap, MongoDB  
-- Designed ER diagrams and implemented relational data models.  
-- Built secure authentication and multi-role access controls.  
 
 ---
 
