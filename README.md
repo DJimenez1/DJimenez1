@@ -12,10 +12,7 @@ My latest project is **Function**, a hobby-based social matchmaking platform wit
 ### [Function](https://github.com/DJimenez1/function-app-frontend)
 Social matchmaking platform connecting users with shared interests, featuring queue-based matching, real-time text/voice chat, and a polished UI.  
 **Tech stack:** React, Express, MongoDB, WebSockets, Railway, Vercel  
-[Live Demo](https://david-jimenez-portfolio.vercel.app/) | [Backend](https://github.com/DJimenez1/function-app-backend)  
-
-**Video Walkthrough:**  
-[![Watch the Function Demo](https://david-jimenez-portfolio.vercel.app/Function_App_Video_Walkthrough.mp4)  
+[Live Demo](https://david-jimenez-portfolio.vercel.app/) | [Video Walkthrough](https://david-jimenez-portfolio.vercel.app/Function_App_Video_Walkthrough.mp4)   
 
 ---
 
