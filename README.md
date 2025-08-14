@@ -3,7 +3,7 @@
 **Full-Stack Developer | Computer Engineering Graduate | Creator of [Function](https://functionapp.dev)**  
 
 I’m passionate about building scalable, secure applications and AI-powered tools that channel my interests into meaningful, practical solutions.
-My latest project is **Function**, a hobby-based social matchmaking platform with real-time text and voice chat, built using **React, Express, and MongoDB**.  
+My latest project is **Function**, a hobby-based social matchmaking platform, built using **React, Express, and MongoDB**.  
 
 ---
 
