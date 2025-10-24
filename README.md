@@ -29,7 +29,7 @@ AI-powered virtual assistant "Janus" for university FAQs and navigation using NL
 ---
 
 ### [I²C Bit-Bang](https://github.com/DJimenez1/I2C-bitbang-arduino)
-Wrote a driver that manually toggles SDA/SCL lines, handles ACK/NACK cycles, and synchronizes clock stretching to recreate I2C from scratch.
+Wrote a driver that manually toggles SDA/SCL lines, handles ACK/NACK cycles, and synchronizes clock stretching to recreate I2C from scratch.  
 **Tech stack:** C++, Arduino
 
 ---
